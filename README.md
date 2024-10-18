@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Redish Midnight</h1>
-    <p>Dark theme for Linux desktops based on Redish, Lavanda, and Tokyo Night</p>
+    <p>Dark theme for Linux desktops based on <a href="https://github.com/legendlife/Redish" target="_blank">Redish</a>, <a href="https://github.com/vinceliuice/Lavanda-kde" target="_blank">Lavanda</a>, and <a href="https://github.com/folke/tokyonight.nvim">Tokyo Night</a></p>
 </div>
 
 - **Distro:** Debian (I don't actually know if this matters, haha)
