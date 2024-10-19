@@ -1361,6 +1361,7 @@ searchbar > revealer > box {
 /***************
  * Header bars *
  ***************/
+ 
 .nemo-window .primary-toolbar button, headerbar button:not(.suggested-action):not(.destructive-action) {
   color: rgba(192, 202, 245, 0.7);
   background-color: rgba(192, 202, 245, 0.04);
@@ -1429,7 +1430,7 @@ searchbar > revealer > box {
 }
 
 .nemo-window .primary-toolbar entry:focus, .titlebar entry:focus {
-  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.04), inset 0 0 0 2px #f3dcce;
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.04), inset 0 0 0 2px #c0caf5;
 }
 
 .nemo-window .primary-toolbar entry:disabled, .titlebar entry:disabled {
@@ -1511,7 +1512,7 @@ searchbar > revealer > box {
 }
 
 .titlebar.selection-mode + separator, .titlebar.selection-mode + separator.sidebar, .selection-mode .titlebar + separator, .selection-mode .titlebar + separator.sidebar {
-  background-color: #f3dcce;
+  background-color: #c0caf5;
 }
 
 .titlebar.selection-mode + separator:backdrop, .titlebar.selection-mode + separator.sidebar:backdrop, .selection-mode .titlebar + separator:backdrop, .selection-mode .titlebar + separator.sidebar:backdrop {
@@ -1538,7 +1539,7 @@ searchbar > revealer > box {
 .titlebar.selection-mode {
   transition: background-color 0.1ms 225ms, color 75ms cubic-bezier(0, 0, 0.2, 1);
   animation: ripple-on-headerbar 225ms cubic-bezier(0, 0, 0.2, 1);
-  background-color: #f3dcce;
+  background-color: #c0caf5;
   color: rgba(26, 27, 38, 0.87);
   box-shadow: inset 0 -1px rgba(192, 202, 245, 0.12);
 }
@@ -2857,7 +2858,7 @@ treeview.view radio:checked, treeview.view radio:indeterminate, treeview.view ch
 }
 
 .background.csd treeview.view radio:checked, .background.csd treeview.view radio:indeterminate, .background.csd treeview.view check:checked, .background.csd treeview.view check:indeterminate {
-  background-color: #f3dcce;
+  background-color: #c0caf5;
   color: rgba(26, 27, 38, 0.87);
 }
 
@@ -8401,3 +8402,19 @@ FIXME this is really an API */
 @define-color BLACK_500 #393634;
 @define-color BLACK_700 #33302F;
 @define-color BLACK_900 #2B2928;
+
+headerbar, .titlebar, .window-title, .background.csd {
+  color: #c0caf5 !important;
+}
+
+headerbar:backdrop, .titlebar:backdrop, .window-title:backdrop, .background.csd:backdrop {
+  color: #c0caf5 !important;
+}
+
+headerbar.title, headerbar .title {
+  color: #c0caf5 !important;
+}
+
+headerbar.title:backdrop, headerbar .title:backdrop {
+  color: #c0caf5 !important;
+}
