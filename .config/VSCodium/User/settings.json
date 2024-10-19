@@ -11,6 +11,7 @@
     "[typescriptreact]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
+    "window.titleBarStyle": "custom",
     "workbench.colorCustomizations": {
         "[Tokyo Night]": {
             "foreground": "#787c99",
@@ -23,8 +24,8 @@
             "badge.foreground": "#acb0d0",
             "icon.foreground": "#787c99",
             "settings.headerForeground": "#F66151",
-            "window.activeBorder": "#0d0f17",
-            "window.inactiveBorder":"#0d0f17",
+            "window.activeBorder": "#F31B42", // Deprecated in 1.71.x onwards
+            "window.inactiveBorder":"#0d0f17", // Deprecated in 1.71.x onwards
             "sash.hoverBorder": "#29355a",
     
             "toolbar.activeBackground": "#202330",
@@ -404,5 +405,6 @@
             "menu.separatorBackground":"#101014",
             "menu.border":"#101014"
         },
-    }
+    },
+    "window.commandCenter": false,
 }
