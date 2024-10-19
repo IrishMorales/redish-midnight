@@ -8,9 +8,7 @@
 - **Window Manager:** Xfwm
 - **Panel:** Xfce4-panel (Centered time using 3 equal-width panels)
 - **File Manager:** Thunar (Xfce default)
-- **Icons:** HighContrast (Available with Xfce defaults)
+- **Icons:** [Suru++Asprómauros](https://github.com/gusbemacbe/suru-plus-aspromauros)
 - **Cursor:** Adwaita (Xfce default)
-
-### Theming
 - **GTK + Window Manager Theme:** The [Lavanda + Tokyo Night theme](https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade) from Miserable_Xfce. Modified this to match Redish colors + styled window buttons in GIMP
 - **Wallpaper:** [Window Samurai](https://github.com/legendlife/Redish/blob/main/wallpaper/window-samurai.jpg) from Redish
