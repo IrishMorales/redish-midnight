@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=LavandaRedish
-Comment=Dark Gtk+ theme inspired by Lavanda + Redish
+Name=RedishMidnight
+Comment=Dark Gtk+ theme inspired by Redish + Lavanda + Tokyo Night
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=LavandaRedish
-MetacityTheme=LavandaRedish
-IconTheme=Tela-circle-Dark
-CursorTheme=Lavanda-cursors
-ButtonLayout=close,minimize,maximize:menu
+GtkTheme=RedishMidnight
+MetacityTheme=RedishMidnight
+IconTheme=Suru++-Asprómauros
+CursorTheme=Adwaita
+ButtonLayout=close,maximize,minimize
