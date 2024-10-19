@@ -6,9 +6,11 @@
 - **Distro:** Debian (I don't actually know if this matters, haha)
 - **Desktop Environment:** Xfce
 - **Window Manager:** Xfwm
-- **Panel:** Xfce4-panel
+- **Panel:** Xfce4-panel (Centered time using 3 equal-width panels)
 - **File Manager:** Thunar (Xfce default)
 - **Icons:** HighContrast (Available with Xfce defaults)
 - **Cursor:** Adwaita (Xfce default)
-- **GTK Theme:** The [Lavanda + Tokyo Night theme](https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade) from Miserable_Xfce, modified to match Redish colors
+
+### Theming
+- **GTK + Window Manager Theme:** The [Lavanda + Tokyo Night theme](https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade) from Miserable_Xfce, modified to match Redish colors + window buttons styled in GIMP
 - **Wallpaper:** [Window Samurai](https://github.com/legendlife/Redish/blob/main/wallpaper/window-samurai.jpg) from Redish
