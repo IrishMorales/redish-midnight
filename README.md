@@ -11,6 +11,7 @@
 - **Icons:** [Suru++Asprómauros](https://github.com/gusbemacbe/suru-plus-aspromauros), with colors modified to match Redish
 - **Cursor:** Adwaita
 - **Terminal:** Xfce Terminal with colors modified to match Redish + Tokyo Night
-- **GTK + Window Manager Theme:** The [Lavanda + Tokyo Night theme](https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade) from Miserable_Xfce. Modified this to match Redish colors + styled window buttons in GIMP (.xcf files also uploaded). Only tested on GTK 3.0, behavior may be inconsistent for other versions. Edit this as needed :)
+- **Greeter**: LightDM
+- **GTK + Window Manager + Greeter Theme:** The [Lavanda + Tokyo Night theme](https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade) from Miserable_Xfce. Modified this to match Redish colors + styled window buttons in GIMP (.xcf files also uploaded). Only tested on GTK 3.0, behavior may be inconsistent for other versions. Edit this as needed :)
 - **Wallpaper:** [Window Samurai](https://github.com/legendlife/Redish/blob/main/wallpaper/window-samurai.jpg) from Redish
 - **IDE**: VSCodium w/ Tokyo Night extension, with settings.json modified to match Redish
