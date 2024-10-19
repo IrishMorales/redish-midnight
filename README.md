@@ -12,5 +12,5 @@
 - **Cursor:** Adwaita (Xfce default)
 
 ### Theming
-- **GTK + Window Manager Theme:** The [Lavanda + Tokyo Night theme](https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade) from Miserable_Xfce, modified to match Redish colors + window buttons styled in GIMP
+- **GTK + Window Manager Theme:** The [Lavanda + Tokyo Night theme](https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade) from Miserable_Xfce. Modified this to match Redish colors + styled window buttons in GIMP
 - **Wallpaper:** [Window Samurai](https://github.com/legendlife/Redish/blob/main/wallpaper/window-samurai.jpg) from Redish
