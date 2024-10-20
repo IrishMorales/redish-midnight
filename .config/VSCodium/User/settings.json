@@ -1,17 +1,5 @@
 {
     "workbench.colorTheme": "Tokyo Night",
-    "explorer.confirmDelete": false,
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "git.confirmSync": false,
-    "git.enableSmartCommit": true,
-    "editor.linkedEditing": true,
-    "LaravelExtraIntellisense.basePath": "${workspaceFolder}",
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "window.titleBarStyle": "custom",
     "workbench.colorCustomizations": {
         "[Tokyo Night]": {
             "foreground": "#787c99",
@@ -407,4 +395,6 @@
         },
     },
     "window.commandCenter": false,
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "window.customTitleBarVisibility": "auto",
 }
