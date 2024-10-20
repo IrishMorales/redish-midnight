@@ -1,11 +1,12 @@
 <div align="center">
     <h1>Redish Midnight</h1>
-    <p>Dark theme for Linux desktops based on <a href="https://github.com/legendlife/Redish" target="_blank">Redish</a>, <a href="https://github.com/vinceliuice/Lavanda-kde" target="_blank">Lavanda</a>, and <a href="https://github.com/folke/tokyonight.nvim">Tokyo Night</a></p>
+    <p>AMOLED dark theme for Linux desktops based on <a href="https://github.com/legendlife/Redish" target="_blank">Redish</a>, <a href="https://github.com/vinceliuice/Lavanda-kde" target="_blank">Lavanda</a>, and <a href="https://github.com/folke/tokyonight.nvim">Tokyo Night</a></p>
 </div>
 
 <img src="screenshots/desktop.png">
 
 ### Details
+
 - **Distro:** Debian 12
 - **Desktop Environment:** Xfce 4.18
 - **Window Manager:** Xfwm4
@@ -21,9 +22,10 @@
 - **Wallpaper:** [Window Samurai](https://github.com/legendlife/Redish/blob/main/wallpaper/window-samurai.jpg) from Redish, created by [Crysalis](https://www.instagram.com/curisaris/)
 - **IDE**: VSCodium with Tokyo Night extension, with settings.json modified to match Redish. Should also work with VSCode
 
-
 ### Other screenshots
+
 <img src="screenshots/applications.png">
+
 Crappy phone pictures for bootloader & greeter below :D
 <img src="screenshots/bootloader.jpg">
 <img src="screenshots/greeter.jpg">
