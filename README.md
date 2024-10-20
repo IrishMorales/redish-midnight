@@ -16,4 +16,4 @@
 - **GRUB Bootloader Theme:** [Xenlism](https://www.pling.com/p/1440862) with settings, colors, and images edited to match Redish - only the Debian version is in this repo, but the modifications here can (probably) be easily copied to Xenlism versions for other distros
 - **Fonts:** Terminus for terminal & bootloader, Inter everywhere else
 - **Wallpaper:** [Window Samurai](https://github.com/legendlife/Redish/blob/main/wallpaper/window-samurai.jpg) from Redish, created by [Crysalis](https://www.instagram.com/curisaris/)
-- **IDE**: VSCodium w/ Tokyo Night extension, with settings.json modified to match Redish. Should also work w/ VSCode
+- **IDE**: VSCodium with Tokyo Night extension, with settings.json modified to match Redish. Should also work with VSCode
