@@ -641,10 +641,10 @@ treeview entry.flat, treeview entry.flat:focus, treeview entry, treeview entry:f
  ***********/
 @keyframes needs-attention {
   from {
-    background-image: -gtk-gradient(radial, center center, 0, center center, 0.001, to(#BF4040), to(#F31B42));
+    background-image: -gtk-gradient(radial, center center, 0, center center, 0.001, to(#f3dcce), to(transparent));
   }
   to {
-    background-image: -gtk-gradient(radial, center center, 0, center center, 0.5, to(#F31B42), to(#BF4040));
+    background-image: -gtk-gradient(radial, center center, 0, center center, 0.5, to(#f3dcce), to(transparent));
   }
 }
 
@@ -936,8 +936,8 @@ button.osd.image-button > image, button.osd.circular > image {
 }
 
 button.suggested-action {
-  background-color: #17181d;
-  color: #c0caf5;
+  background-color: #f3dcce;
+  color: rgba(26, 27, 38, 0.87);
   box-shadow: none;
 }
 
@@ -965,7 +965,7 @@ button.suggested-action:focus {
 
 button.suggested-action.flat {
   background-color: transparent;
-  color: #c0caf5;
+  color: #f3dcce;
 }
 
 button.suggested-action.flat:disabled {
