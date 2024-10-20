@@ -641,10 +641,10 @@ treeview entry.flat, treeview entry.flat:focus, treeview entry, treeview entry:f
  ***********/
 @keyframes needs-attention {
   from {
-    background-image: -gtk-gradient(radial, center center, 0, center center, 0.001, to(#f3dcce), to(transparent));
+    background-image: -gtk-gradient(radial, center center, 0, center center, 0.001, to(#BF4040), to(#F31B42));
   }
   to {
-    background-image: -gtk-gradient(radial, center center, 0, center center, 0.5, to(#f3dcce), to(transparent));
+    background-image: -gtk-gradient(radial, center center, 0, center center, 0.5, to(#F31B42), to(#BF4040));
   }
 }
 
@@ -936,8 +936,8 @@ button.osd.image-button > image, button.osd.circular > image {
 }
 
 button.suggested-action {
-  background-color: #f3dcce;
-  color: rgba(26, 27, 38, 0.87);
+  background-color: #17181d;
+  color: #c0caf5;
   box-shadow: none;
 }
 
@@ -965,7 +965,7 @@ button.suggested-action:focus {
 
 button.suggested-action.flat {
   background-color: transparent;
-  color: #f3dcce;
+  color: #c0caf5;
 }
 
 button.suggested-action.flat:disabled {
@@ -8163,9 +8163,9 @@ dialog.xfsm-logout-dialog {
 #shutdown_dialog,
 #restart_dialog {
   margin: 8px;
-  border-radius: 6px;
-  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.15), 0 4px 3px 0 rgba(0, 0, 0, 0.18), 0 1px 6px 0 rgba(0, 0, 0, 0.12), inset 0 1px rgba(192, 202, 245, 0.08);
-  background-color: #252732;
+  border-radius: 2px;
+  border-color: #F31B42;
+  background-color: #000000;
 }
 
 #content_frame {
@@ -8182,7 +8182,7 @@ dialog.xfsm-logout-dialog {
 }
 
 #buttonbox_frame button:not(:disabled) {
-  color: #f3dcce;
+  color: #C0CAF5;
 }
 
 /********

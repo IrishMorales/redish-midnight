@@ -8163,9 +8163,9 @@ dialog.xfsm-logout-dialog {
 #shutdown_dialog,
 #restart_dialog {
   margin: 8px;
-  border-radius: 6px;
-  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.15), 0 4px 3px 0 rgba(0, 0, 0, 0.18), 0 1px 6px 0 rgba(0, 0, 0, 0.12), inset 0 1px rgba(192, 202, 245, 0.08);
-  background-color: #252732;
+  border-radius: 2px;
+  border-color: #F31B42;
+  background-color: #000000;
 }
 
 #content_frame {
@@ -8182,7 +8182,7 @@ dialog.xfsm-logout-dialog {
 }
 
 #buttonbox_frame button:not(:disabled) {
-  color: #f3dcce;
+  color: #C0CAF5;
 }
 
 /********
