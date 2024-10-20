@@ -13,6 +13,7 @@
 - **Terminal:** xfce4-terminal with colors modified to match Redish + Tokyo Night
 - **Greeter**: LightDM
 - **GTK + Window Manager + Greeter Theme:** RedishMidnight - The [Lavanda + Tokyo Night theme](https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade) from Miserable_Xfce + modified to match Redish colors + styled window buttons in GIMP (.xcf files also uploaded). Only tested on GTK 3.0, behavior may be inconsistent for other versions
+- **GRUB Bootloader Theme:** [Xenlism](https://www.pling.com/p/1440862) with settings, colors, and images edited to match Redish 
 - **Fonts:** Noto Mono Regular for terminal + bootloader, Inter everywhere else
 - **Wallpaper:** [Window Samurai](https://github.com/legendlife/Redish/blob/main/wallpaper/window-samurai.jpg) from Redish, created by [Crysalis](https://www.instagram.com/curisaris/)
 - **IDE**: VSCodium w/ Tokyo Night extension, with settings.json modified to match Redish
