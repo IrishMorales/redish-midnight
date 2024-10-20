@@ -27,8 +27,8 @@ export GRUB_COLOR_NORMAL="red/black"
 export GRUB_COLOR_HIGHLIGHT="light-gray/black"
 export GRUB_MENU_PICTURE="{YOUR_WALLPAPER_PATH}/window-samurai.jpg"
 
-# In another terminal, use your distro's command to convert font for GRUB (paths below may differ)
-# ex. $sudo grub2-mkfont -s 11 -o /boot/grub/fonts/NotoMono-Regular.pf2 /usr/share/fonts/noto/NotoMono-Regular.ttf
+# In another terminal, use your distro's command to convert font for GRUB (paths and commands below may differ)
+# ex. $sudo grub-mkfont -s 11 -o /boot/grub/fonts/NotoMono-Regular.pf2 /usr/share/fonts/noto/NotoMono-Regular.ttf
 export GRUB_FONT="/boot/{YOUR_FONT_PATH}/NotoMono-Regular.pf2"
 
 $ sudo update-grub
