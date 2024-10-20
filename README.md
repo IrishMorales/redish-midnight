@@ -20,6 +20,8 @@
 
 ### GRUB Bootloader Customization
 
+In addition to Xenlism, I also did the following (this modifies the screen after selecting a distro):
+
 ```bash
 $ sudo vim /etc/default/grub
 
