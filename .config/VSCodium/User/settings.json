@@ -333,7 +333,7 @@
             "terminal.ansiBrightCyan": "#F3DCCE",
             "terminal.ansiBrightWhite": "#acb0d0",
     
-            "gitDecoration.modifiedResourceForeground": "#F66151",
+            "gitDecoration.modifiedResourceForeground": "#ff9e64",
             "gitDecoration.ignoredResourceForeground": "#515670",
             "gitDecoration.deletedResourceForeground": "#914c54",
             "gitDecoration.renamedResourceForeground": "#449dab",
@@ -341,7 +341,7 @@
             "gitDecoration.untrackedResourceForeground": "#449dab",
             "gitDecoration.conflictingResourceForeground": "#e0af68cc",
             "gitDecoration.stageDeletedResourceForeground": "#914c54",
-            "gitDecoration.stageModifiedResourceForeground": "#F66151",
+            "gitDecoration.stageModifiedResourceForeground": "#e0af68",
     
             "notebook.editorBackground": "#000000",
             "notebook.cellEditorBackground": "#000000",
