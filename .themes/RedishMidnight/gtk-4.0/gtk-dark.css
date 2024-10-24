@@ -1443,7 +1443,7 @@ list > row button.image-button:not(.flat).destructive-action {
  * Links *
  *********/
 link {
-  color: #f3dcce;
+  color: #F66151;
 }
 
 link:visited {
@@ -1451,7 +1451,7 @@ link:visited {
 }
 
 button.link:link, button.link:link:focus, button.link:link:hover, button.link:link:active {
-  color: #f3dcce;
+  color: #F66151;
 }
 
 button.link:visited, button.link:visited:focus, button.link:visited:hover, button.link:visited:active {
